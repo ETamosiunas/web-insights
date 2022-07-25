@@ -1,15 +1,15 @@
 # web-insights
 
 Packages to be installed before running the code:
-&bull npm i axios /n
-&bull npm i jsdom /n
-&bull npm i --save-dev jest /n 
-&bull npm i jest-environment-jsdom /n 
-
+ npm i axios  
+ npm i jsdom  
+ npm i --save-dev jest   
+ npm i jest-environment-jsdom   
+  
 To run the code:
-&bull npm start /n
-&bull or /n
-&bull npm start 'https://selectedURL.com' /n
-
+npm start  
+or  
+npm start 'https://selectedURL.com'  
+  
 To Test:
-&bull npm test
+npm test  
